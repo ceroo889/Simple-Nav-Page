@@ -20,11 +20,13 @@
 
 * ⚡ **站内快速检索**：支持标题 & 描述关键词筛选
 
-* 🖼️ **自动网站图标**：自动获取 favicon（多源 fallback）
+* 🖼️ **自动网站图标**：自动获取 favicon（多源 fallback），支持自定义
 
 * 🌄 **随机背景图**：每次刷新自动切换背景
 
 * 🌐 **内外网地址切换**：默认外网，一键切换
+
+* 💻 **新增后台功能**：可视化增减网站
 
 ---
 
@@ -65,7 +67,17 @@
 * `desc` ：网站下方的介绍
 * `url`：网站地址
   
-* `intranet`（可选）：若有内外网切换需求，则在"url" 下方加一行，【"intranet": "输入你的内网网址",】
+* `intranet`（可选）：若有内外网切换需求，则在下方加一行，【"intranet": "输入你的内网网址",】
+* `icon`（可选）：若有自定义图标需求，则在下方加一行，【"icon": "路径/图标名称",】
+  【例】
+      {
+        "title": "哔哩哔哩",
+        "url": "https://www.bilibili.com/",
+        "desc": "视频、动漫、弹幕",
+        "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐，B站、b站",
+        "icon": "icons/logos/哔哩哔哩-copy.svg",
+        "intranet": "https://www.bilibili.com/anime"
+      },
   
  编辑 `main.js`：（可选）
  
@@ -130,14 +142,37 @@ Worker 会代理以下资源：
   
 ---
 
-### 5️⃣ 部署
+### 5️⃣（可选）开启后台功能
+
+登录后台可避免每次增减网站改代码的繁琐，并方便自定义图标
+
+#### 📦 步骤
+
+1. 打开 https://github.com/settings/personal-access-tokens
+2. Generate new token
+3. Token name *、Description随意、Expiration（token有效期）
+4. 然后点Only select repositories，然后选择自己的仓库
+5. 选+Add permissions，再选Contents，将Contents后改为，Access：Read and Write
+6. Generate token
+<img width="1272" height="844" alt="New Fine-grained Personal Access Token (18 06 2026 21_22)" src="https://github.com/user-attachments/assets/425ae79e-d2ac-499a-8f13-b5779465151d" />
+
+7. 复制token并保存本地任意位置，忘记需要重新申请
+8. 打开admin.html,修改 const HARDCODED_REPO   = '你的用户名/Simple-Nav-Page';
+9. 打开后台（你的网址/admin）
+10. 第一次需要输入token和自定义短密码，后续可通过短密码登录（换设备和浏览器后需要重新输入token）
+11. 修改后台内容后点击保存到github
+<img width="1194" height="604" alt="导航编辑器 (18 06 2026 21_37)" src="https://github.com/user-attachments/assets/e6ab1926-ba82-4d67-8de3-b94d10c12d5c" />
+
+---
+
+### 6️⃣ 部署
 
 * 使用 GitHub Pages
 * 或接入 Cloudflare Pages
 
 ---
 
-### 6️⃣ 完成 🎉
+### 7️⃣ 完成 🎉
 
 ---
 
@@ -146,6 +181,9 @@ Worker 会代理以下资源：
 👉 https://xmynscnq.github.io/Simple-Nav-Page
 
 <img width="1920" height="919" alt="王五导航 (04 05 2026 09_29)" src="https://github.com/user-attachments/assets/36f545b3-b3f6-4b26-9038-f27df15476ef" />
+
+<img width="1920" height="919" alt="导航编辑器 (18 06 2026 21_38)" src="https://github.com/user-attachments/assets/69f09854-930c-4e67-9f33-7fff01258f70" />
+
 
 ---
 
