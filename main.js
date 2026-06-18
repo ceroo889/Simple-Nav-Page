@@ -323,7 +323,7 @@ function renderCards(sections) {
       const img = document.createElement('img');
       img.className = 'favicon';
       img.loading   = 'lazy';
-      img.src       = faviconSrc(item.url);
+      img.src = item.icon ? item.icon : faviconSrc(item.url);
       img.onerror   = function () {
         const domain = getDomain(item.url);
         if (domain && !this.dataset.fallbackTried) {
