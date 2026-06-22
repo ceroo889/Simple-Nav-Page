@@ -636,3 +636,43 @@ h1::after {
 }
 
 .net-toggle-btn.intranet-active:hover { background: rgba(210, 90, 20, 0.85); }
+
+/* ===== 夜间模式 ===== */
+body.night-mode {
+  --glass-bg: rgba(0, 0, 20, 0.55);
+  --glass-border: rgba(150, 180, 255, 0.18);
+  --primary: #7c9fff;
+  --primary-dim: rgba(124, 159, 255, 0.35);
+}
+
+body.night-mode #bgOverlay {
+  background: rgba(0, 0, 40, 0.45);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+
+body.night-mode .section-title::before {
+  background: var(--primary);
+}
+
+/* ===== 主题切换按钮 ===== */
+.theme-toggle-btn {
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  filter: drop-shadow(0 0 8px rgba(255,220,80,0.7));
+  transition: filter 0.3s, transform 0.3s;
+  flex-shrink: 0;
+  line-height: 1;
+  padding: 0;
+  user-select: none;
+}
+
+.theme-toggle-btn:hover {
+  transform: rotate(20deg) scale(1.15);
+}
+
+body.night-mode .theme-toggle-btn {
+  filter: drop-shadow(0 0 8px rgba(180,200,255,0.8));
+}
