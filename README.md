@@ -1,3 +1,5 @@
+🔄 Language / Language: [简体中文](README.md) | **English**
+
 # 🌐 Simple Nav Page
 
 一个**低门槛的个人导航页模板**，无需服务器，小白也能快速搭建属于自己的导航页。
