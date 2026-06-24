@@ -40,8 +40,7 @@ Homepage:
 
 https://xmynscnq.github.io/Simple-Nav-Page
 
-![Uploading 王五导航 (24.06.2026 17_30).png…]()
-
+<img width="1920" height="919" alt="王五导航 (24 06 2026 17_30)" src="https://github.com/user-attachments/assets/00db60cd-502b-425a-aed6-278d20d6c5f1" />
 
 Admin Panel:
 
@@ -265,6 +264,7 @@ The token acts as a key with read/write permissions for your repository, allowin
 
 ---
 
+## 📸 Examples: Mobile View / Dark Mode
 <img width="375" height="667" alt="王五导航 (24 06 2026 17_28)" src="https://github.com/user-attachments/assets/3c07f475-31b9-4676-b872-88e13a393eae" />
 
 
