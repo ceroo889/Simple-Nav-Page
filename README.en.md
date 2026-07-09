@@ -86,7 +86,7 @@ Edit `index.html`:
 ### 3️⃣ Configure website data
 
 Edit `links.json`
-(skip this step if you plan to use the admin panel later)
+(Collect the websites you frequently use. If you plan to deploy the backend, you can skip the step of editing Links.json.)
 
 Fields:
 
