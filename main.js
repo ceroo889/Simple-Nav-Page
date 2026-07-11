@@ -156,7 +156,7 @@ let enginePanelOpen   = false;
 
 /* ── 工具 ── */
 function getDomain(url) {
-  try { return new URL(url).hostname; } catch { return null; }
+  try { return new URL(url).host; } catch { return null; }
 }
 function faviconSrc(url) { return buildFaviconUrl(getDomain(url)); }
 function engineFavicon(engine) { return buildFaviconUrl(engine.domain); }
