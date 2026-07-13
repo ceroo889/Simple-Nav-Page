@@ -31,9 +31,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: -2;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: #000;
 }
 
 #bgOverlay {

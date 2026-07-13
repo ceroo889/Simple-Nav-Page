@@ -409,15 +409,15 @@ function bindTouchTooltip() {
   }
 }
 
-/* ── 随机背景 ── */
-function changeBackground() {
+/* ── 随机背景（已禁用，纯黑） ── */
+/*function changeBackground() {
   const url = `${BG_API}${Date.now()}`;
   document.getElementById('bgLayer').style.backgroundImage = `url('${url}')`;
-}
+}*/
 
 /* ── 入口 ── */
 document.addEventListener('DOMContentLoaded', async () => {
-  changeBackground();
+  // changeBackground();  // 已禁用，纯黑背景
 
   renderSearchTabs();
   updateSearchBoxEngine();
