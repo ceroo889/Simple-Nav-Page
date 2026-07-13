@@ -43,19 +43,6 @@
         "url": "https://dash.cloudflare.com",
         "desc": "CDN、网络安全",
         "data-desc": "全球领先的 CDN 与网络安全服务、大善人"
-      },
-      {
-        "title": "虎牙",
-        "url": "https://www.huya.com/",
-        "desc": "游戏、真人秀、一起看",
-        "data-desc": "国内知名游戏直播平台，游戏、真人秀、一起看"
-      },
-      {
-        "title": "王五主页",
-        "url": "https://wwzy.ccwu.cc/jianjie",
-        "desc": "个人主页",
-        "data-desc": "王五的个人主页",
-        "icon": "icons/logos/favicon.png"
       }
     ]
   },
