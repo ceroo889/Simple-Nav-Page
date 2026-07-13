@@ -1,5 +1,5 @@
 /* ===========================
-   王五导航 · main.js
+   葫nana导航 · main.js
    =========================== */
 
 // ── 图标 & 背景 配置 ────────────────────────────────────────
@@ -114,6 +114,8 @@ const SEARCH_CATEGORIES = [
   {
     id: 'video', label: '视频', icon: '🎬',
     engines: [
+      { name: '抖音',   icon: '🎵', url: 'https://www.douyin.com/search/',             domain: 'douyin.com' },
+      { name: '小红书', icon: '❤️', url: 'https://www.xiaohongshu.com/search_result?keyword=', domain: 'xiaohongshu.com' },
       { name: 'B站',    icon: '📺', url: 'https://search.bilibili.com/all?keyword=', domain: 'bilibili.com' },
       { name: '腾讯',   icon: '🐧', url: 'https://v.qq.com/search.html#stag=0&s=',  domain: 'v.qq.com' },
       { name: '爱奇艺', icon: '🟢', url: 'https://so.iqiyi.com/so/q_',              domain: 'iqiyi.com' },
