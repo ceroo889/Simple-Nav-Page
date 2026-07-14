@@ -268,6 +268,21 @@
         "url": "https://yiyan.baidu.com/",
         "desc": "百度AI大模型",
         "data-desc": "百度旗下文心一言 AI 大模型，ERNIE Bot，中文理解能力强"
+      },
+      {
+        "title": "Qwen",
+        "url": "https://chat.qwen.ai/",
+        "desc": ""
+      },
+      {
+        "title": "grok",
+        "url": "https://grok.com/",
+        "desc": ""
+      },
+      {
+        "title": "千问",
+        "url": "https://www.qianwen.com/chat",
+        "desc": ""
       }
     ]
   },
