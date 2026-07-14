@@ -428,16 +428,10 @@
         "icon": "icons/logos/deepseek-copy-copy-copy-copy-copy.svg"
       },
       {
-        "title": "Kimi",
-        "url": "https://kimi.moonshot.cn/",
-        "desc": "月之暗面AI助手",
-        "data-desc": "月之暗面旗下 AI 助手，支持超长上下文，文件阅读与分析，Kimi"
-      },
-      {
-        "title": "文心一言",
-        "url": "https://yiyan.baidu.com/",
-        "desc": "百度AI大模型",
-        "data-desc": "百度旗下文心一言 AI 大模型，ERNIE Bot，中文理解能力强"
+        "title": "豆包",
+        "url": "https://www.doubao.com/chat/",
+        "desc": "字节跳动AI助手",
+        "data-desc": "字节跳动旗下 AI 对话助手，豆包，灵活全面，支持图片生成"
       },
       {
         "title": "通义千问",
@@ -447,10 +441,10 @@
         "icon": "icons/logos/通义千问.svg"
       },
       {
-        "title": "豆包",
-        "url": "https://www.doubao.com/chat/",
-        "desc": "字节跳动AI助手",
-        "data-desc": "字节跳动旗下 AI 对话助手，豆包，灵活全面，支持图片生成"
+        "title": "Kimi",
+        "url": "https://kimi.moonshot.cn/",
+        "desc": "月之暗面AI助手",
+        "data-desc": "月之暗面旗下 AI 助手，支持超长上下文，文件阅读与分析，Kimi"
       },
       {
         "title": "讯飞星火",
@@ -481,6 +475,12 @@
         "url": "https://suno.com/",
         "desc": "AI音乐创作",
         "data-desc": "AI 音乐生成平台，输入歌词或描述即可生成完整歌曲，Suno AI"
+      },
+      {
+        "title": "文心一言",
+        "url": "https://yiyan.baidu.com/",
+        "desc": "百度AI大模型",
+        "data-desc": "百度旗下文心一言 AI 大模型，ERNIE Bot，中文理解能力强"
       }
     ]
   },
