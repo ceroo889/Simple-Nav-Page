@@ -362,6 +362,41 @@
         "url": "https://www.kuaishou.com/?isHome=1",
         "desc": "短视频直播社交",
         "data-desc": "快手，短视频与直播社交平台"
+      },
+      {
+        "title": "TIKTOK",
+        "url": "https://www.tiktok.com/",
+        "desc": ""
+      },
+      {
+        "title": "instagram",
+        "url": "https://www.instagram.com/",
+        "desc": ""
+      },
+      {
+        "title": "奈飞工厂",
+        "url": "https://www.netflixgc.com/",
+        "desc": ""
+      },
+      {
+        "title": "52TV",
+        "url": "https://52tvdy.com/",
+        "desc": ""
+      },
+      {
+        "title": "YOU视频",
+        "url": "https://www.youvod.cc/",
+        "desc": ""
+      },
+      {
+        "title": "MoonTV",
+        "url": "https://tv.6677880.xyz/",
+        "desc": ""
+      },
+      {
+        "title": "爱壹帆",
+        "url": "https://www.iyf.tv/",
+        "desc": ""
       }
     ]
   },
