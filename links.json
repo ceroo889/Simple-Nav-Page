@@ -58,6 +58,11 @@
         "title": " YouTube",
         "url": "https://www.youtube.com/",
         "desc": ""
+      },
+      {
+        "title": "Google",
+        "url": "https://www.google.com",
+        "desc": ""
       }
     ]
   },
