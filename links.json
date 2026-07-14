@@ -3,16 +3,25 @@
     "section": "常用",
     "items": [
       {
-        "title": "哔哩哔哩",
-        "url": "https://www.bilibili.com/",
-        "desc": "视频、动漫、弹幕",
-        "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐、B站、b站"
+        "title": "Google",
+        "url": "https://www.google.com",
+        "desc": ""
+      },
+      {
+        "title": " YouTube",
+        "url": "https://www.youtube.com/",
+        "desc": ""
       },
       {
         "title": "抖音",
         "url": "https://www.douyin.com/jingxuan",
         "desc": "短视频，精选",
         "data-desc": "抖音精选短视频内容"
+      },
+      {
+        "title": "容器签到",
+        "url": "https://legacy.bot-hosting.net/panel/",
+        "desc": ""
       },
       {
         "title": "DeepSeek",
@@ -45,23 +54,14 @@
         "data-desc": "全球领先的 CDN 与网络安全服务、大善人"
       },
       {
+        "title": "哔哩哔哩",
+        "url": "https://www.bilibili.com/",
+        "desc": "视频、动漫、弹幕",
+        "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐、B站、b站"
+      },
+      {
         "title": "探针",
         "url": "https://v0.2300000.xyz/",
-        "desc": ""
-      },
-      {
-        "title": "容器签到",
-        "url": "https://legacy.bot-hosting.net/panel/",
-        "desc": ""
-      },
-      {
-        "title": " YouTube",
-        "url": "https://www.youtube.com/",
-        "desc": ""
-      },
-      {
-        "title": "Google",
-        "url": "https://www.google.com",
         "desc": ""
       }
     ]
