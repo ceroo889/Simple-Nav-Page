@@ -43,6 +43,21 @@
         "url": "https://dash.cloudflare.com",
         "desc": "CDN、网络安全",
         "data-desc": "全球领先的 CDN 与网络安全服务、大善人"
+      },
+      {
+        "title": "探针",
+        "url": "https://v0.2300000.xyz/",
+        "desc": ""
+      },
+      {
+        "title": "容器签到",
+        "url": "https://legacy.bot-hosting.net/panel/",
+        "desc": ""
+      },
+      {
+        "title": "https://www.youtube.com/",
+        "url": "https://www.youtube.com/",
+        "desc": ""
       }
     ]
   },
