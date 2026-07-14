@@ -187,6 +187,91 @@
     ]
   },
   {
+    "section": "AI",
+    "items": [
+      {
+        "title": "Claude",
+        "url": "https://claude.ai/",
+        "desc": "Anthropic AI助手",
+        "data-desc": "Anthropic 旗下 AI 对话助手，擅长写作、分析与代码，Claude 3.5"
+      },
+      {
+        "title": "ChatGPT",
+        "url": "https://chatgpt.com/",
+        "desc": "OpenAI AI助手",
+        "data-desc": "OpenAI 旗下 AI 对话助手，GPT-4o，强大通用大模型"
+      },
+      {
+        "title": "Gemini",
+        "url": "https://gemini.google.com/",
+        "desc": "谷歌多模态AI",
+        "data-desc": "谷歌旗下多模态 AI 大模型，支持图文理解与对话，Gemini 1.5 Pro"
+      },
+      {
+        "title": "DeepSeek",
+        "url": "https://chat.deepseek.com/",
+        "desc": "国产顶级AI大模型",
+        "data-desc": "国产顶级 AI 大模型，深度思考、代码辅助，深度求索，DeepSeek R1",
+        "icon": "icons/logos/deepseek-copy-copy-copy-copy-copy.svg"
+      },
+      {
+        "title": "豆包",
+        "url": "https://www.doubao.com/chat/",
+        "desc": "字节跳动AI助手",
+        "data-desc": "字节跳动旗下 AI 对话助手，豆包，灵活全面，支持图片生成"
+      },
+      {
+        "title": "通义千问",
+        "url": "https://tongyi.aliyun.com/",
+        "desc": "阿里AI大模型",
+        "data-desc": "阿里巴巴旗下通义千问 AI 大模型，Qwen，支持长文档与多模态",
+        "icon": "icons/logos/通义千问.svg"
+      },
+      {
+        "title": "Kimi",
+        "url": "https://kimi.moonshot.cn/",
+        "desc": "月之暗面AI助手",
+        "data-desc": "月之暗面旗下 AI 助手，支持超长上下文，文件阅读与分析，Kimi"
+      },
+      {
+        "title": "讯飞星火",
+        "url": "https://xinghuo.xfyun.cn/",
+        "desc": "科大讯飞AI",
+        "data-desc": "科大讯飞旗下星火大模型，语音识别强，中文场景优化"
+      },
+      {
+        "title": "海螺AI",
+        "url": "https://hailuoai.com/",
+        "desc": "MiniMax AI助手",
+        "data-desc": "MiniMax 旗下海螺 AI 助手，支持图文生成与多轮对话"
+      },
+      {
+        "title": "即梦",
+        "url": "https://jimeng.jianying.com/",
+        "desc": "字节AI图像视频生成",
+        "data-desc": "字节跳动旗下即梦，AI 图像与视频生成，剪映系产品"
+      },
+      {
+        "title": "可灵",
+        "url": "https://klingai.kuaishou.com/",
+        "desc": "快手AI视频生成",
+        "data-desc": "快手旗下可灵 AI 视频生成工具，文生视频、图生视频"
+      },
+      {
+        "title": "Suno",
+        "url": "https://suno.com/",
+        "desc": "AI音乐创作",
+        "data-desc": "AI 音乐生成平台，输入歌词或描述即可生成完整歌曲，Suno AI"
+      },
+      {
+        "title": "文心一言",
+        "url": "https://yiyan.baidu.com/",
+        "desc": "百度AI大模型",
+        "data-desc": "百度旗下文心一言 AI 大模型，ERNIE Bot，中文理解能力强"
+      }
+    ]
+  },
+  {
     "section": "资源网",
     "items": [
       {
@@ -243,10 +328,10 @@
     "section": "影视",
     "items": [
       {
-        "title": "央视直播",
-        "url": "https://tv.cctv.com/live/",
-        "desc": "央视频道在线直播",
-        "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
+        "title": "抖音",
+        "url": "https://www.douyin.com/jingxuan",
+        "desc": "抖音精选短视频",
+        "data-desc": "抖音精选短视频内容"
       },
       {
         "title": "哔哩哔哩",
@@ -255,10 +340,10 @@
         "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐"
       },
       {
-        "title": "抖音",
-        "url": "https://www.douyin.com/jingxuan",
-        "desc": "抖音精选短视频",
-        "data-desc": "抖音精选短视频内容"
+        "title": "央视直播",
+        "url": "https://tv.cctv.com/live/",
+        "desc": "央视频道在线直播",
+        "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
       },
       {
         "title": "斗鱼",
@@ -396,91 +481,6 @@
         "url": "https://www.umetrip.com/",
         "desc": "航班查询与管理",
         "data-desc": "民航官方出品航班查询与管理应用，航旅纵横，实时航班动态"
-      }
-    ]
-  },
-  {
-    "section": "AI",
-    "items": [
-      {
-        "title": "Claude",
-        "url": "https://claude.ai/",
-        "desc": "Anthropic AI助手",
-        "data-desc": "Anthropic 旗下 AI 对话助手，擅长写作、分析与代码，Claude 3.5"
-      },
-      {
-        "title": "ChatGPT",
-        "url": "https://chatgpt.com/",
-        "desc": "OpenAI AI助手",
-        "data-desc": "OpenAI 旗下 AI 对话助手，GPT-4o，强大通用大模型"
-      },
-      {
-        "title": "Gemini",
-        "url": "https://gemini.google.com/",
-        "desc": "谷歌多模态AI",
-        "data-desc": "谷歌旗下多模态 AI 大模型，支持图文理解与对话，Gemini 1.5 Pro"
-      },
-      {
-        "title": "DeepSeek",
-        "url": "https://chat.deepseek.com/",
-        "desc": "国产顶级AI大模型",
-        "data-desc": "国产顶级 AI 大模型，深度思考、代码辅助，深度求索，DeepSeek R1",
-        "icon": "icons/logos/deepseek-copy-copy-copy-copy-copy.svg"
-      },
-      {
-        "title": "豆包",
-        "url": "https://www.doubao.com/chat/",
-        "desc": "字节跳动AI助手",
-        "data-desc": "字节跳动旗下 AI 对话助手，豆包，灵活全面，支持图片生成"
-      },
-      {
-        "title": "通义千问",
-        "url": "https://tongyi.aliyun.com/",
-        "desc": "阿里AI大模型",
-        "data-desc": "阿里巴巴旗下通义千问 AI 大模型，Qwen，支持长文档与多模态",
-        "icon": "icons/logos/通义千问.svg"
-      },
-      {
-        "title": "Kimi",
-        "url": "https://kimi.moonshot.cn/",
-        "desc": "月之暗面AI助手",
-        "data-desc": "月之暗面旗下 AI 助手，支持超长上下文，文件阅读与分析，Kimi"
-      },
-      {
-        "title": "讯飞星火",
-        "url": "https://xinghuo.xfyun.cn/",
-        "desc": "科大讯飞AI",
-        "data-desc": "科大讯飞旗下星火大模型，语音识别强，中文场景优化"
-      },
-      {
-        "title": "海螺AI",
-        "url": "https://hailuoai.com/",
-        "desc": "MiniMax AI助手",
-        "data-desc": "MiniMax 旗下海螺 AI 助手，支持图文生成与多轮对话"
-      },
-      {
-        "title": "即梦",
-        "url": "https://jimeng.jianying.com/",
-        "desc": "字节AI图像视频生成",
-        "data-desc": "字节跳动旗下即梦，AI 图像与视频生成，剪映系产品"
-      },
-      {
-        "title": "可灵",
-        "url": "https://klingai.kuaishou.com/",
-        "desc": "快手AI视频生成",
-        "data-desc": "快手旗下可灵 AI 视频生成工具，文生视频、图生视频"
-      },
-      {
-        "title": "Suno",
-        "url": "https://suno.com/",
-        "desc": "AI音乐创作",
-        "data-desc": "AI 音乐生成平台，输入歌词或描述即可生成完整歌曲，Suno AI"
-      },
-      {
-        "title": "文心一言",
-        "url": "https://yiyan.baidu.com/",
-        "desc": "百度AI大模型",
-        "data-desc": "百度旗下文心一言 AI 大模型，ERNIE Bot，中文理解能力强"
       }
     ]
   },
