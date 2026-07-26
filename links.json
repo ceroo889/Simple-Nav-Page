@@ -638,6 +638,31 @@
     ]
   },
   {
+    "section": "儿童动画",
+    "items": [
+      {
+        "title": "宝宝巴士",
+        "url": "https://www.youtube.com/@BabyBusTC/videos",
+        "desc": ""
+      },
+      {
+        "title": "汪汪队",
+        "url": "https://www.youtube.com/@PAWPatrolMandarin/videos",
+        "desc": ""
+      },
+      {
+        "title": "熊出没",
+        "url": "https://www.youtube.com/@%E7%86%8A%E5%87%BA%E6%B2%A1BoonieBears/videos",
+        "desc": ""
+      },
+      {
+        "title": "安全警長啦咘啦哆",
+        "url": "https://www.youtube.com/@SheriffLabradorTC/videos",
+        "desc": ""
+      }
+    ]
+  },
+  {
     "section": "其他导航",
     "items": [
       {
