@@ -308,6 +308,11 @@
         "title": "千问",
         "url": "https://www.qianwen.com/chat",
         "desc": ""
+      },
+      {
+        "title": "Google Al Studio",
+        "url": "https://aistudio.google.com/prompts/new_chat",
+        "desc": ""
       }
     ]
   },
