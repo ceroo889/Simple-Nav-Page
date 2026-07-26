@@ -326,16 +326,20 @@
         "data-desc": "抖音精选短视频内容"
       },
       {
+        "title": "TIKTOK",
+        "url": "https://www.tiktok.com/",
+        "desc": ""
+      },
+      {
+        "title": "instagram",
+        "url": "https://www.instagram.com/",
+        "desc": ""
+      },
+      {
         "title": "哔哩哔哩",
         "url": "https://www.bilibili.com/",
         "desc": "视频、动漫、弹幕",
         "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐"
-      },
-      {
-        "title": "央视直播",
-        "url": "https://tv.cctv.com/live/",
-        "desc": "央视频道在线直播",
-        "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
       },
       {
         "title": "斗鱼",
@@ -354,16 +358,6 @@
         "url": "https://www.kuaishou.com/?isHome=1",
         "desc": "短视频直播社交",
         "data-desc": "快手，短视频与直播社交平台"
-      },
-      {
-        "title": "TIKTOK",
-        "url": "https://www.tiktok.com/",
-        "desc": ""
-      },
-      {
-        "title": "instagram",
-        "url": "https://www.instagram.com/",
-        "desc": ""
       },
       {
         "title": "奈飞工厂",
@@ -389,6 +383,12 @@
         "title": "爱壹帆",
         "url": "https://www.iyf.tv/",
         "desc": ""
+      },
+      {
+        "title": "央视直播",
+        "url": "https://tv.cctv.com/live/",
+        "desc": "央视频道在线直播",
+        "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
       }
     ]
   },
