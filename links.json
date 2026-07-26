@@ -183,6 +183,31 @@
         "url": "https://www.docker.com",
         "desc": "容器化开发部署",
         "data-desc": "Docker 容器化开发与部署平台"
+      },
+      {
+        "title": "在线工具箱",
+        "url": "https://tool.browser.qq.com/",
+        "desc": "腾讯在线工具箱"
+      },
+      {
+        "title": "IP查询/DNS",
+        "url": "https://ipleak.net/",
+        "desc": ""
+      },
+      {
+        "title": "speedtest测速",
+        "url": "https://www.speedtest.net/",
+        "desc": ""
+      },
+      {
+        "title": "谷歌测速",
+        "url": "https://fiber.google.com/speedtest/",
+        "desc": ""
+      },
+      {
+        "title": "像素蛋糕",
+        "url": "https://www.pixcakeai.com/download",
+        "desc": ""
       }
     ]
   },
