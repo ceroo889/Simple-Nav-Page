@@ -317,64 +317,6 @@
     ]
   },
   {
-    "section": "资源网",
-    "items": [
-      {
-        "title": "电脑系统库",
-        "url": "https://www.xitongku.com/",
-        "desc": "系统镜像下载",
-        "data-desc": "电脑系统镜像下载，Win各版本资源"
-      },
-      {
-        "title": "字幕库",
-        "url": "https://www.opensubtitles.org/zh",
-        "desc": "影视字幕下载",
-        "data-desc": "全球最大字幕库，多语言影视字幕下载"
-      },
-      {
-        "title": "葫芦侠",
-        "url": "https://www.huluxia.com",
-        "desc": "安卓游戏破解",
-        "data-desc": "葫芦侠，安卓游戏破解与资源平台"
-      },
-      {
-        "title": "pexels",
-        "url": "https://www.pexels.com/zh-cn/",
-        "desc": "免费高清素材库",
-        "data-desc": "免费高质量图片与视频素材库"
-      },
-      {
-        "title": "二次元图片",
-        "url": "https://konachan.net/",
-        "desc": "动漫壁纸社区",
-        "data-desc": "高质量二次元动漫壁纸图片社区"
-      },
-      {
-        "title": "Wallpaperscraft",
-        "url": "https://wallpaperscraft.com",
-        "desc": "高清壁纸下载",
-        "data-desc": "高清壁纸下载，多分辨率免费壁纸"
-      },
-      {
-        "title": "腾讯软件",
-        "url": "https://pc.qq.com/",
-        "desc": "正版软件下载",
-        "data-desc": "腾讯软件中心，正版软件安全下载"
-      },
-      {
-        "title": "磁力猫",
-        "url": "https://clm20241231.xn--z7xt16d.com/",
-        "desc": "磁力资源搜索",
-        "data-desc": "磁力猫，磁力链接搜索与资源下载"
-      },
-      {
-        "title": "Switch520游戏站",
-        "url": "https://www.gamer520.com/",
-        "desc": ""
-      }
-    ]
-  },
-  {
     "section": "影视",
     "items": [
       {
@@ -611,6 +553,64 @@
         "url": "https://www.umetrip.com/",
         "desc": "航班查询与管理",
         "data-desc": "民航官方出品航班查询与管理应用，航旅纵横，实时航班动态"
+      }
+    ]
+  },
+  {
+    "section": "资源网",
+    "items": [
+      {
+        "title": "电脑系统库",
+        "url": "https://www.xitongku.com/",
+        "desc": "系统镜像下载",
+        "data-desc": "电脑系统镜像下载，Win各版本资源"
+      },
+      {
+        "title": "字幕库",
+        "url": "https://www.opensubtitles.org/zh",
+        "desc": "影视字幕下载",
+        "data-desc": "全球最大字幕库，多语言影视字幕下载"
+      },
+      {
+        "title": "葫芦侠",
+        "url": "https://www.huluxia.com",
+        "desc": "安卓游戏破解",
+        "data-desc": "葫芦侠，安卓游戏破解与资源平台"
+      },
+      {
+        "title": "pexels",
+        "url": "https://www.pexels.com/zh-cn/",
+        "desc": "免费高清素材库",
+        "data-desc": "免费高质量图片与视频素材库"
+      },
+      {
+        "title": "二次元图片",
+        "url": "https://konachan.net/",
+        "desc": "动漫壁纸社区",
+        "data-desc": "高质量二次元动漫壁纸图片社区"
+      },
+      {
+        "title": "Wallpaperscraft",
+        "url": "https://wallpaperscraft.com",
+        "desc": "高清壁纸下载",
+        "data-desc": "高清壁纸下载，多分辨率免费壁纸"
+      },
+      {
+        "title": "腾讯软件",
+        "url": "https://pc.qq.com/",
+        "desc": "正版软件下载",
+        "data-desc": "腾讯软件中心，正版软件安全下载"
+      },
+      {
+        "title": "磁力猫",
+        "url": "https://clm20241231.xn--z7xt16d.com/",
+        "desc": "磁力资源搜索",
+        "data-desc": "磁力猫，磁力链接搜索与资源下载"
+      },
+      {
+        "title": "Switch520游戏站",
+        "url": "https://www.gamer520.com/",
+        "desc": ""
       }
     ]
   },
