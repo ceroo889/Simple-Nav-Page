@@ -67,6 +67,87 @@
     ]
   },
   {
+    "section": "影视",
+    "items": [
+      {
+        "title": "抖音",
+        "url": "https://www.douyin.com/jingxuan",
+        "desc": "抖音精选短视频",
+        "data-desc": "抖音精选短视频内容"
+      },
+      {
+        "title": "TIKTOK",
+        "url": "https://www.tiktok.com/",
+        "desc": ""
+      },
+      {
+        "title": "instagram",
+        "url": "https://www.instagram.com/",
+        "desc": ""
+      },
+      {
+        "title": "哔哩哔哩",
+        "url": "https://www.bilibili.com/",
+        "desc": "视频、动漫、弹幕",
+        "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐"
+      },
+      {
+        "title": "小红书",
+        "url": "https://www.xiaohongshu.com/explore",
+        "desc": "你的生活兴趣社区"
+      },
+      {
+        "title": "斗鱼",
+        "url": "https://www.douyu.com",
+        "desc": "游戏娱乐直播",
+        "data-desc": "斗鱼直播，游戏娱乐综合直播平台"
+      },
+      {
+        "title": "虎牙",
+        "url": "https://www.huya.com/",
+        "desc": "游戏直播平台",
+        "data-desc": "虎牙直播，国内知名游戏直播平台"
+      },
+      {
+        "title": "快手",
+        "url": "https://www.kuaishou.com/?isHome=1",
+        "desc": "短视频直播社交",
+        "data-desc": "快手，短视频与直播社交平台"
+      },
+      {
+        "title": "奈飞工厂",
+        "url": "https://www.netflixgc.com/",
+        "desc": ""
+      },
+      {
+        "title": "52TV",
+        "url": "https://52tvdy.com/",
+        "desc": ""
+      },
+      {
+        "title": "YOU视频",
+        "url": "https://www.youvod.cc/",
+        "desc": ""
+      },
+      {
+        "title": "MoonTV",
+        "url": "https://tv.6677880.xyz/",
+        "desc": ""
+      },
+      {
+        "title": "爱壹帆",
+        "url": "https://www.iyf.tv/",
+        "desc": ""
+      },
+      {
+        "title": "央视直播",
+        "url": "https://tv.cctv.com/live/",
+        "desc": "央视频道在线直播",
+        "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
+      }
+    ]
+  },
+  {
     "section": "工具",
     "items": [
       {
@@ -313,82 +394,6 @@
         "title": "Google Al Studio",
         "url": "https://aistudio.google.com/prompts/new_chat",
         "desc": ""
-      }
-    ]
-  },
-  {
-    "section": "影视",
-    "items": [
-      {
-        "title": "抖音",
-        "url": "https://www.douyin.com/jingxuan",
-        "desc": "抖音精选短视频",
-        "data-desc": "抖音精选短视频内容"
-      },
-      {
-        "title": "TIKTOK",
-        "url": "https://www.tiktok.com/",
-        "desc": ""
-      },
-      {
-        "title": "instagram",
-        "url": "https://www.instagram.com/",
-        "desc": ""
-      },
-      {
-        "title": "哔哩哔哩",
-        "url": "https://www.bilibili.com/",
-        "desc": "视频、动漫、弹幕",
-        "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐"
-      },
-      {
-        "title": "斗鱼",
-        "url": "https://www.douyu.com",
-        "desc": "游戏娱乐直播",
-        "data-desc": "斗鱼直播，游戏娱乐综合直播平台"
-      },
-      {
-        "title": "虎牙",
-        "url": "https://www.huya.com/",
-        "desc": "游戏直播平台",
-        "data-desc": "虎牙直播，国内知名游戏直播平台"
-      },
-      {
-        "title": "快手",
-        "url": "https://www.kuaishou.com/?isHome=1",
-        "desc": "短视频直播社交",
-        "data-desc": "快手，短视频与直播社交平台"
-      },
-      {
-        "title": "奈飞工厂",
-        "url": "https://www.netflixgc.com/",
-        "desc": ""
-      },
-      {
-        "title": "52TV",
-        "url": "https://52tvdy.com/",
-        "desc": ""
-      },
-      {
-        "title": "YOU视频",
-        "url": "https://www.youvod.cc/",
-        "desc": ""
-      },
-      {
-        "title": "MoonTV",
-        "url": "https://tv.6677880.xyz/",
-        "desc": ""
-      },
-      {
-        "title": "爱壹帆",
-        "url": "https://www.iyf.tv/",
-        "desc": ""
-      },
-      {
-        "title": "央视直播",
-        "url": "https://tv.cctv.com/live/",
-        "desc": "央视频道在线直播",
-        "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
       }
     ]
   },
