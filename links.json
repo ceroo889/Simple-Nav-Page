@@ -154,6 +154,11 @@
         "title": "知乎",
         "url": "https://www.zhihu.com/",
         "desc": "有问题，就会有答案"
+      },
+      {
+        "title": "微博",
+        "url": "https://weibo.com/",
+        "desc": "随时随地发现新鲜事"
       }
     ]
   },
