@@ -577,6 +577,54 @@
     ]
   },
   {
+    "section": "儿童动画",
+    "items": [
+      {
+        "title": "宝宝巴士",
+        "url": "https://www.youtube.com/@BabyBusTC/videos",
+        "desc": ""
+      },
+      {
+        "title": "汪汪队",
+        "url": "https://www.youtube.com/@PAWPatrolMandarin/videos",
+        "desc": ""
+      },
+      {
+        "title": "熊出没",
+        "url": "https://www.youtube.com/@%E7%86%8A%E5%87%BA%E6%B2%A1BoonieBears/videos",
+        "desc": ""
+      },
+      {
+        "title": "安全警長啦咘啦哆",
+        "url": "https://www.youtube.com/@SheriffLabradorTC/videos",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "section": "游戏 / 娱乐",
+    "items": [
+      {
+        "title": "Steam",
+        "url": "https://store.steampowered.com/",
+        "desc": "PC游戏平台",
+        "data-desc": "全球最大 PC 游戏数字发行平台，Steam，V社，游戏购买与社区"
+      },
+      {
+        "title": "4399",
+        "url": "https://www.4399.com",
+        "desc": "PC小游戏平台",
+        "data-desc": "经典PC小游戏平台"
+      },
+      {
+        "title": "在线街机",
+        "url": "https://www.yikm.net/",
+        "desc": "经典街机模拟",
+        "data-desc": "在线街机模拟器，经典游戏免费畅玩"
+      }
+    ]
+  },
+  {
     "section": "资源网",
     "items": [
       {
@@ -635,49 +683,26 @@
     ]
   },
   {
-    "section": "游戏 / 娱乐",
+    "section": "域名VPS",
     "items": [
       {
-        "title": "Steam",
-        "url": "https://store.steampowered.com/",
-        "desc": "PC游戏平台",
-        "data-desc": "全球最大 PC 游戏数字发行平台，Steam，V社，游戏购买与社区"
+        "title": "EUserv",
+        "url": "https://support.euserv.com/index.iphp?sess_id=4cf62341982bb1fa6e0deef4a5db67f811611173791734581558",
+        "desc": "德机"
       },
       {
-        "title": "4399",
-        "url": "https://www.4399.com",
-        "desc": "PC小游戏平台",
-        "data-desc": "经典PC小游戏平台"
+        "title": "cloudcone",
+        "url": "https://app.cloudcone.com/cloud",
+        "desc": "CC"
       },
       {
-        "title": "在线街机",
-        "url": "https://www.yikm.net/",
-        "desc": "经典街机模拟",
-        "data-desc": "在线街机模拟器，经典游戏免费畅玩"
-      }
-    ]
-  },
-  {
-    "section": "儿童动画",
-    "items": [
-      {
-        "title": "宝宝巴士",
-        "url": "https://www.youtube.com/@BabyBusTC/videos",
+        "title": "56云",
+        "url": "https://56idc.net/clientarea.php?action=productdetails&id=4732",
         "desc": ""
       },
       {
-        "title": "汪汪队",
-        "url": "https://www.youtube.com/@PAWPatrolMandarin/videos",
-        "desc": ""
-      },
-      {
-        "title": "熊出没",
-        "url": "https://www.youtube.com/@%E7%86%8A%E5%87%BA%E6%B2%A1BoonieBears/videos",
-        "desc": ""
-      },
-      {
-        "title": "安全警長啦咘啦哆",
-        "url": "https://www.youtube.com/@SheriffLabradorTC/videos",
+        "title": "ACC",
+        "url": "https://acck.io",
         "desc": ""
       }
     ]
