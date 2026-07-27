@@ -144,6 +144,16 @@
         "url": "https://tv.cctv.com/live/",
         "desc": "央视频道在线直播",
         "data-desc": "央视频道在线直播，新闻综艺体育全覆盖"
+      },
+      {
+        "title": "X",
+        "url": "https://x.com/",
+        "desc": ""
+      },
+      {
+        "title": "知乎",
+        "url": "https://www.zhihu.com/",
+        "desc": "有问题，就会有答案"
       }
     ]
   },
